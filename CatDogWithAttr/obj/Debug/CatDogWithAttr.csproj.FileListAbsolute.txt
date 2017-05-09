@@ -1,0 +1,6 @@
+c:\users\horváth ádám\documents\visual studio 2017\Projects\CatDogWithAttr\CatDogWithAttr\bin\Debug\CatDogWithAttr.exe.config
+c:\users\horváth ádám\documents\visual studio 2017\Projects\CatDogWithAttr\CatDogWithAttr\bin\Debug\CatDogWithAttr.exe
+c:\users\horváth ádám\documents\visual studio 2017\Projects\CatDogWithAttr\CatDogWithAttr\bin\Debug\CatDogWithAttr.pdb
+c:\users\horváth ádám\documents\visual studio 2017\Projects\CatDogWithAttr\CatDogWithAttr\obj\Debug\CatDogWithAttr.csprojResolveAssemblyReference.cache
+c:\users\horváth ádám\documents\visual studio 2017\Projects\CatDogWithAttr\CatDogWithAttr\obj\Debug\CatDogWithAttr.exe
+c:\users\horváth ádám\documents\visual studio 2017\Projects\CatDogWithAttr\CatDogWithAttr\obj\Debug\CatDogWithAttr.pdb
